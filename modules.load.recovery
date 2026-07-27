@@ -205,3 +205,9 @@ mtk_rpmsg_mbox.ko
 mtk-mbox.ko
 mtk_tinysys_ipi.ko
 mtk-mmdvfs-v3-start.ko
+mmi_info.ko
+mmi_relay.ko
+sensors_class.ko
+touchscreen_u_mmi.ko
+focaltech_touch_v3_u_mmi.ko
+goodix_brl_u_mmi.ko
