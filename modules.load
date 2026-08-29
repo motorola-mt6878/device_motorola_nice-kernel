@@ -20,7 +20,6 @@ mtk-ssc.ko
 mtk-ssc-dbg-v2.ko
 trace_mmstat.ko
 ccmni.ko
-rps_perf.ko
 mtk-pwm.ko
 mtk_irtx_pwm.ko
 sspm_v3.ko
@@ -99,9 +98,6 @@ mtk_cm_ipi.ko
 mtk_cm_mgr.ko
 mtk_cm_mgr_mt6878.ko
 mtk_perf_ioctl.ko
-mtk_fpsgo.ko
-fpsgo.ko
-frs.ko
 mtk-cam-isp7sp.ko
 imgsensor-glue.ko
 imgsensor.ko
